@@ -1,0 +1,8 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">TACA</title>
+  <rect width="48" height="48" rx="12" fill="#111827" />
+  <path d="M14 15H34V20H26.5V34H21.5V20H14V15Z" fill="white" />
+  <path d="M62 15H99V20H83V34H78V20H62V15Z" fill="#111827" />
+  <path d="M101 34L112.5 15H118L129.5 34H124L121.75 30H108.75L106.5 34H101ZM111 25.75H119.5L115.25 18.25L111 25.75Z" fill="#111827" />
+  <path d="M134 34V15H139V29.5H153V34H134Z" fill="#111827" />
+</svg>
